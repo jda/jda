@@ -1,6 +1,6 @@
 ### jade n.b.
 
-Jade uses code to solve problems and has no attachment to any particular language or methodology.
+[Jade](https://jade.wtf) uses code to solve problems and has no attachment to any particular language or methodology.
 
 Jade believes that it is immoral to make somoene wait more than ~.5 seconds for a CLI program
 to return when run with a `--help` flag.
