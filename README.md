@@ -1,6 +1,7 @@
-[Jade](https://jade.wtf) uses code to solve specific problems and has no attachment to any particular language or methodology.
+[![she/her pronouns](https://img.shields.io/badge/pronouns-she%2Fher-ff69b4)](https://pronoun.is/she/her)
+[![US/Pacific timezone](https://img.shields.io/badge/timezone-US%2FPacific-informational)](https://www.timeanddate.com/worldclock/usa/oakland)
 
-- 👩‍🦰 Pronouns: she/her
+[Jade](https://jade.wtf) uses code to solve specific problems and has no attachment to any particular language or methodology.
 
 <!--
 **jda/jda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
