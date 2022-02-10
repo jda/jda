@@ -1,14 +1,15 @@
 
-[Jade](https://jade.wtf) uses code to solve specific problems and has no attachment to any particular language or methodology.
+[Jade](https://jade.wtf) uses code to solve specific problems that she has encountered. and has no attachment to any particular language or methodology.
 
-Any software available here under is provided [in some approximation of a gift](https://apenwarr.ca/log/20211229). As I've benefitted from others, I hope others may benefit from my work, but note that this does not imply any obligation to make it work for you.
+As I've benefitted from others, I hope others may benefit from my work. In that spirit, any software available here under is provided [in some approximation of a gift](https://apenwarr.ca/log/20211229) and does not imply any obligation to make it work for you.
 
+<!--
 ## Badges are fun
 
 [![US/Pacific timezone](https://img.shields.io/badge/timezone-US%2FPacific-informational)](https://www.timeanddate.com/worldclock/usa/oakland)
 [![she/her pronouns](https://img.shields.io/badge/pronouns-she%2Fher-ff69b4)](https://pronoun.is/she/her)
 
-
+-->
 <!--
 **jda/jda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
