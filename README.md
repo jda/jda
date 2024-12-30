@@ -1,7 +1,7 @@
 
 [Jade](https://jade.wtf) uses code to solve specific problems that she has encountered.
 
-As I've benefitted from others, I hope others may benefit from my work. In that spirit, any software available here under is provided [in some approximation of a gift](https://apenwarr.ca/log/20211229) and does not imply any obligation to make it work for you.
+As I've benefitted from others, I hope others may benefit from my work. In that spirit, any software available here is provided [in some approximation of a gift](https://apenwarr.ca/log/20211229) and does not imply any obligation to make it work for you.
 
 <!--
 ## Badges are fun
